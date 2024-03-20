@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "C:/Users/Kabon/Documents/PlatformIO/Projects/owie-oint/lib/arduino-esp32-release-v2.x",
+    "files.associations": {
+        "tuple": "cpp"
+    }
+}
